@@ -7,7 +7,7 @@ Driven and Curious data analyst with experience working with Python, SQL, Power 
 
 
 ## Work Experience
-### Data Analytics 2023- Present
+### Data Analyst 2023- Present
 1. Discuss with backend team about database and table schemas.
 2. Confirm API team about passing parameters and required values.
 3. Extract the datas using that API's in python files.

@@ -1,7 +1,4 @@
-# sivaraman_portfolio
-Analytics Portfolio
-
-#Data Analyst
+# Data Analyst
 
 ### Education
 Bsc, MCA

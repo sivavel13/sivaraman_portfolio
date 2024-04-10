@@ -14,7 +14,7 @@
 4. Use pandas dataframes and pipe lines and transform that data's informative structure using numpy.
   - Remove Null values
   - Handle Duplicate values
-  - Apply some statistics formula
+  - Apply statistics formula
 5. Load that informative data's to streamlit Dashboards.
 
 **Skills: Python, Pandas, Numpy, JSON, SQL, Streamlit Dashboards, Data visualization charts**

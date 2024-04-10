@@ -1,4 +1,4 @@
-# Data Analyst
+
 
 ## Objective
 Driven and Curious data analyst with experience working with Python, SQL, Power BI, and several other things. With a passion for creative innovation and solving complex problems. I am eager to further implement my skills and improve my data analysis experience with a detail-driven data team.

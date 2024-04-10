@@ -1,7 +1,7 @@
 # Data Analyst
 
-## WHO AM I?
-**Hi I'm Sivaraman V** An enthusiastic and determined Data Analyst, possessing knowledge of Python, Pandas, Numpy, SQL, Power BI, Django, etc. To take a challenging role to make significant contributions in Data analyst, Data engineering very excited to work on that things. "Highly professional with good communication, analytical, and logical skills looking forward to work in a challenging environment."
+## Objective
+Driven and Curious data analyst with experience working with Python, SQL, Power BI, and several other things. With a passion for creative innovation and solving complex problems. I am eager to further implement my skills and improve my data analysis experience with a detail-driven data team.
 
 **Technical Skills : Python, SQL, Pandas, Numpy, Power BI, Excel, Django**
 

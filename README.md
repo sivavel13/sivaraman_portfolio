@@ -24,7 +24,7 @@ Driven and Curious data analyst with experience working with Python, SQL, Power 
 2. Based on requiremnts changes logics from python files and Store procedure.
 3. Analysis overall results and Try to improve the accuracy.
    
-**Skills:Python, Regex, MSSQL, SP**
+**Skills:Python, Regex, MSSQL, Store Procedure**
 
 ### Python Django Developer 2021 - 2022
 1. Read and understand the client's requirement documents.

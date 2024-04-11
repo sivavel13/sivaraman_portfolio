@@ -34,3 +34,6 @@ Driven and Curious data analyst with experience working with Python, SQL, Power 
 
 **Skills:Python, Django**
 
+## Portfolio
+A Sample of my personal work
+streamlit_survey_screenshot.png

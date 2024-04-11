@@ -1,7 +1,7 @@
 
 
 ## Objective
-Driven and Curious data analyst with experience working with Python, SQL, Power BI, and several other things. With a passion for creative innovation and solving complex problems. I am eager to further implement my skills and improve my data analysis experience with a detail-driven data team.
+&nbsp;&nbsp;&nbsp;&nbsp; Driven and Curious data analyst with experience working with Python, SQL, Power BI, and several other things. With a passion for creative innovation and solving complex problems. I am eager to further implement my skills and improve my data analysis experience with a detail-driven data team.
 
 **Technical Skills : Python, SQL, Pandas, Numpy, Power BI, Excel, Django**
 

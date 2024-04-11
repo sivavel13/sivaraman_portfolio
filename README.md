@@ -34,6 +34,6 @@
 
 **Skills:Python, Django**
 
-## Portfolio
+<center>## Portfolio</center>
 A Sample of my personal work
 streamlit_survey_screenshot.png
